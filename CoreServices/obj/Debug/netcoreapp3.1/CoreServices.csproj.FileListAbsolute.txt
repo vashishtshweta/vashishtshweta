@@ -1,0 +1,17 @@
+C:\Users\shaveta.vashisht\source\repos\Fignum.WebApplication\CoreServices\bin\Debug\netcoreapp3.1\CoreServices.exe
+C:\Users\shaveta.vashisht\source\repos\Fignum.WebApplication\CoreServices\bin\Debug\netcoreapp3.1\CoreServices.deps.json
+C:\Users\shaveta.vashisht\source\repos\Fignum.WebApplication\CoreServices\bin\Debug\netcoreapp3.1\CoreServices.runtimeconfig.json
+C:\Users\shaveta.vashisht\source\repos\Fignum.WebApplication\CoreServices\bin\Debug\netcoreapp3.1\CoreServices.runtimeconfig.dev.json
+C:\Users\shaveta.vashisht\source\repos\Fignum.WebApplication\CoreServices\bin\Debug\netcoreapp3.1\CoreServices.dll
+C:\Users\shaveta.vashisht\source\repos\Fignum.WebApplication\CoreServices\bin\Debug\netcoreapp3.1\CoreServices.pdb
+C:\Users\shaveta.vashisht\source\repos\Fignum.WebApplication\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.AssemblyInfoInputs.cache
+C:\Users\shaveta.vashisht\source\repos\Fignum.WebApplication\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.AssemblyInfo.cs
+C:\Users\shaveta.vashisht\source\repos\Fignum.WebApplication\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.csproj.CoreCompileInputs.cache
+C:\Users\shaveta.vashisht\source\repos\Fignum.WebApplication\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.dll
+C:\Users\shaveta.vashisht\source\repos\Fignum.WebApplication\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.pdb
+C:\Users\shaveta.vashisht\source\repos\Fignum.WebApplication\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.genruntimeconfig.cache
+C:\Users\shaveta.vashisht\source\repos\Fignum.WebApplication\CoreServices\bin\Debug\netcoreapp3.1\Core.Interfaces.exe
+C:\Users\shaveta.vashisht\source\repos\Fignum.WebApplication\CoreServices\bin\Debug\netcoreapp3.1\Core.Interfaces.dll
+C:\Users\shaveta.vashisht\source\repos\Fignum.WebApplication\CoreServices\bin\Debug\netcoreapp3.1\Core.Interfaces.pdb
+C:\Users\shaveta.vashisht\source\repos\Fignum.WebApplication\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.csprojAssemblyReference.cache
+C:\Users\shaveta.vashisht\source\repos\Fignum.WebApplication\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.csproj.CopyComplete

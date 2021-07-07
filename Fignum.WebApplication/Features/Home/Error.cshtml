@@ -1,0 +1,18 @@
+﻿@model Fignum.WebApplication.Features.Home.Models.ErrorViewModel
+@{
+    ViewData["Title"] = "Error";
+}
+<div class="row">
+    <div class="col-xl-2 d-xl-block d-lg-none"></div>
+    <div class="col-xl-8">
+        <div class="row">
+            <div class="col">
+                <div class="alert alert-danger" role="alert">
+                    <i class="fa fa-info-circle mr-2"></i>
+                    @Model.ErrorMessage
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-2 d-xl-block d-lg-none"></div>
+</div>

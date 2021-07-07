@@ -1,0 +1,31 @@
+﻿@using Microsoft.AspNetCore
+@using  Fignum.WebApplication.Features.Shared.Components.MainMenu
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+    @*<title>Fignum Web Application</title>*@
+    <environment include="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="~/css/site.css" />
+    </environment>
+    @await RenderSectionAsync("head", false)
+</head>
+<body>
+    <div class="container-fluid h-100 d-flex flex-column p-0 m-0">
+        @await Component.InvokeAsync(nameof(MainMenu))
+        <div class="flex-row d-flex flex-column flex-fill flex-grow-1 flex-shrink-0 mb-4">
+            <div class="col flex-grow-1 flex-fill my-4">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

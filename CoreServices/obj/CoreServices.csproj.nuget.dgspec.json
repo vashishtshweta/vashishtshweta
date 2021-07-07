@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\shaveta.vashisht\\source\\repos\\Fignum.WebApplication\\CoreServices\\CoreServices.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\shaveta.vashisht\\source\\repos\\Fignum.WebApplication\\Core.Interfaces\\Core.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shaveta.vashisht\\source\\repos\\Fignum.WebApplication\\Core.Interfaces\\Core.Interfaces.csproj",
+        "projectName": "Core.Interfaces",
+        "projectPath": "C:\\Users\\shaveta.vashisht\\source\\repos\\Fignum.WebApplication\\Core.Interfaces\\Core.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\shaveta.vashisht\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shaveta.vashisht\\source\\repos\\Fignum.WebApplication\\Core.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shaveta.vashisht\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\shaveta.vashisht\\source\\repos\\Fignum.WebApplication\\CoreServices\\CoreServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shaveta.vashisht\\source\\repos\\Fignum.WebApplication\\CoreServices\\CoreServices.csproj",
+        "projectName": "CoreServices",
+        "projectPath": "C:\\Users\\shaveta.vashisht\\source\\repos\\Fignum.WebApplication\\CoreServices\\CoreServices.csproj",
+        "packagesPath": "C:\\Users\\shaveta.vashisht\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shaveta.vashisht\\source\\repos\\Fignum.WebApplication\\CoreServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shaveta.vashisht\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\shaveta.vashisht\\source\\repos\\Fignum.WebApplication\\Core.Interfaces\\Core.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\shaveta.vashisht\\source\\repos\\Fignum.WebApplication\\Core.Interfaces\\Core.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
